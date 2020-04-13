@@ -1,7 +1,13 @@
 body
 {
-	color:blue;
+	color:black;
 	text-align:center;
 	font-family: arial;
 
+}
+.enter {
+	width:60%;
+	padding: 1em;
+	border:1px solid black;
+	margin: 0 auto;
 }
